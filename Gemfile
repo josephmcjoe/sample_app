@@ -27,6 +27,7 @@ group :test, :development do
 	gem 'rspec-rails'#, '2.10.0'
 	gem 'capybara'#, '1.1.2'
 	gem 'launchy'
+	gem 'debugger'
 	#gem 'guard'
 	#gem 'guard-rspec'#, '0.5.5'
 	#gem 'guard-spork'#, '0.3.2'
