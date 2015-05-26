@@ -25,6 +25,7 @@ gem 'jquery-rails', '>= 2.0.0'
 
 group :test, :development do
 	gem 'rspec-rails'#, '2.10.0'
+	gem 'rspec-its', '~> 1.0.0.pre'
 	gem 'capybara'#, '1.1.2'
 	gem 'launchy'
 	gem 'debugger'
